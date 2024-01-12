@@ -1,0 +1,28 @@
+.animal-class{
+background-color: rgb(241, 241, 241);
+border: 0.1em solid rgb(209, 209, 209);
+border-radius: 0.8em;
+box-shadow: 0.5em 0.5em 0.5em rgb(231, 231, 231);
+padding: 1em;
+margin: 1em;
+text-align: center;
+}
+
+.header-box{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    border: 0.1em solid rgb(209, 209, 209);
+    border-radius: 0.8em;
+    box-shadow: 0.5em 0.5em 0.5em rgb(231, 231, 231);
+    padding: 1em;
+    margin: 1em;
+    }
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 2em;
+    font-family: 'Trebuchet MS';
+}
